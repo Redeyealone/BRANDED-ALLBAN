@@ -5,6 +5,6 @@ class Config:
     TOKEN="6859073442:AAFFCb2qA648IETNkpgASW8h-gKSQZx-nZg"
     SUDO = list(int(i) for i in os.environ.get("SUDO", "6083498673").split(" "))
     START_IMG="https://te.legra.ph/file/735920504b44b3565242a.jpg"
-    BOT_ID= "6861405754"
-    BOT_USERNAME="SOMEONE47BOT"
-    BOT_NAME="SOMEONE47BOT"
+    BOT_ID= "6859073442"
+    BOT_USERNAME="Grab_carsbot"
+    BOT_NAME="Grab_carsbot"
