@@ -38,8 +38,7 @@ HELP_MSG="""
 
 
 
-
-#  @app.on_message(filters.command("start"))
+@app.on_message(filters.command("start"))
 async def start(_,msg):
     await msg.reply_photo(
      photo=START_IMG,
