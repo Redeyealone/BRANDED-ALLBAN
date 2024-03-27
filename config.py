@@ -8,4 +8,3 @@ class Config:
     BOT_ID= "6826048528"
     BOT_USERNAME="zeroXtwo_bot"
     BOT_NAME="WAIFU_x_robot"
-6942284208:AAFA9CJPBGvLiBlSaCPDw
